@@ -33,5 +33,27 @@
 }
 
 @media  screen and (max-width: 490px) {
-  
+  footer .footer-top {
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 68px;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .footer-bottom .logo-content {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .logo-content .logo {
+    position: absolute;
+    top: 430px;
+  }
+
+  .nav-footer ul {
+    text-align: center;
+  }
 }

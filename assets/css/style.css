@@ -29,10 +29,6 @@ ul {
 }
 
 footer {
-  /* position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0; */
   height: auto;
   background: transparent url(../image/bg.png);
   background-position: center;
@@ -96,10 +92,6 @@ footer .footer-bottom {
 }
 
 .logo-content .logo {
-  /* position: absolute; */
-  /* top: 240px; */
-  /* left: 50%; */
-  /* translate: -50% 0; */
   height: 20px;
 }
 
